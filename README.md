@@ -17,7 +17,7 @@
   <img align="center" alt="Jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jess-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jess-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="right" alt="Jess-PIC" height="150" style="border-radius:50px;" src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc">
+  <img align="right" alt="Jess-PIC" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVlNTg3a2piYWVxd2JpamsyY3V6dnJzZ3N2ZjBuM3JpMjB0NmV0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 </div>
   
   ##
